@@ -2,6 +2,9 @@
 ---
 ~~Actually I'm lazy, so just write so much~~ 🥺
 
+Basic Profile
+- Name: Wang Junjie(王俊杰), my nick name is A Huang(阿鍠)
+- Age: 18
 ##### About me ✨
 - A forever-busy developer, yet somehow never productive 🖊
 - Addicted to systems programming 🐧
